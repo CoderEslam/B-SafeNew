@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164587585013",
+    "project_id": "b-safe-8865b",
+    "storage_bucket": "b-safe-8865b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164587585013:android:10f4fffed664cfcc15b4bc",
+        "android_client_info": {
+          "package_name": "com.doubleclick.b_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164587585013-v4av19ea143cskmo6b3gdbvbrevk83g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZItDzdHAzoEovVH0xYI0tbSzbnEI49dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164587585013-v4av19ea143cskmo6b3gdbvbrevk83g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">B-Safe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_Logout">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="sign_in"><u>Sign in</u></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="_sign_up_"><u>Sign Up</u></string>
+    <string name="b_safe">B-Safe</string>
+    <string name="services_distress"><![CDATA[Services & distress]]></string>
+    <string name="forget_passwprd"><u>Forget Passwprd ?</u></string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="vehicle_model">vehicle Model....</string>
+    <string name="confirm_password">confirm password....</string>
+    <string name="phone">phone....</string>
+    <string name="name">Name....</string>
+    <string name="save_amp_edit"><![CDATA[Save & Edit]]></string>
+    <string name="google_maps_key">AIzaSyB3xpqtXugGT7-d82v2Sx2z0HedMZHKjiU</string>
+    <string name="Servies">Servies</string>
+    <string name="address">Address</string>
+    <string name="request">
+
+        -اضافه الصوره الشصيه
+        -اضافه صوره البطاقه الشخصيه
+        -اضافه صوره لمركز الصيانه
+        -اضافه صوره للبطاقه الضريبيه
+
+    </string>
+    <string name="upload">Upload</string>
+    <string name="friend_s_email">friend\'s Emails....</string>
+</resources>

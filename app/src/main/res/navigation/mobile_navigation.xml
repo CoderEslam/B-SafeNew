@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.doubleclick.b_safe.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_notificatiion"
+        android:name="com.doubleclick.b_safe.ui.notification.NotificatiionFragment"
+        android:label="@string/menu_notification"
+        tools:layout="@layout/fragment_notificatiion" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.doubleclick.b_safe.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_service"
+        android:name="com.doubleclick.b_safe.ui.Servies.ServiesFragment"
+        android:label="fragment_servies"
+        tools:layout="@layout/fragment_servies" />
+
+
+</navigation>
